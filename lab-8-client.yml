@@ -1,2 +1,4 @@
 ---
-lucky-word: "Metallica"
+wordConfig:
+  lucky-word: "Iron Maiden"
+  preamble: "I love"
